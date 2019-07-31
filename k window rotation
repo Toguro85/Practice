@@ -40,7 +40,7 @@ int main()
         }
         else
         {
-            for(j=0;j<(k%n)/2;j++)
+            for(j=0;j<(n%k)/2;j++)
             {
                 temp=*(a+i+j);
                 *(a+i+j)=*(a+n-1-j);
