@@ -1,2 +1,2 @@
 # Practice
-Implementation of different problems attempted
+Code repository of problems and algorithms implemented during practice sessions.
